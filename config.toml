@@ -1,7 +1,7 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = "https://comoserrico.netlify.com/"
+title = "Como Ser Rico"
 theme = "hugo-universal-theme"
-languageCode = "en-us"
+languageCode = "pt-br"
 publishDir = "docs"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt"
