@@ -2,8 +2,9 @@ baseurl = "https://example.org"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
+publishDir = "docs"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
